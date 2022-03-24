@@ -1,5 +1,6 @@
 *
 !.gitignore
 !.README.md
-!./Source
+!/Source
+!/Source/*
 !EQ.JUCER
